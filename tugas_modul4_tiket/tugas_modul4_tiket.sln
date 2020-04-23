@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "tugas_modul4_tiket", "tugas_modul4_tiket\tugas_modul4_tiket.pyproj", "{B994430D-AEFE-49E7-9F6F-D96B097C8D75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B994430D-AEFE-49E7-9F6F-D96B097C8D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B994430D-AEFE-49E7-9F6F-D96B097C8D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D7427CF-F309-4442-94A1-34F48A49031F}
+	EndGlobalSection
+EndGlobal
